@@ -35,7 +35,7 @@ a {
 .header-list {}
 
 .header-list-item {
-    color:#2e2f42;
+    color:var(--NAVY-BLUE, #2e2f42);
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
@@ -65,7 +65,7 @@ color:#404bbf;
 
 .header-address-list-item:hover,
 .header-list-item:focus {
-    color: #404bbf;
+    color: var(--OCEAN, #404bbf);
 }
 
 
@@ -99,7 +99,7 @@ color:#404bbf;
 background-color: #404BBF;
 }
 .head-button:focus{
-background-color: #404BBF;
+background-color: var(--OCEAN, #404bbf);
 }
 
 .service {}
