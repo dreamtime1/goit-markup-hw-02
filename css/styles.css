@@ -35,7 +35,7 @@ a {
 .header-list {}
 
 .header-list-item {
-    color:var(--NAVY-BLUE, #2e2f42);
+    color:#2e2f42;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
@@ -65,7 +65,7 @@ color:#404bbf;
 
 .header-address-list-item:hover,
 .header-list-item:focus {
-    color: var(--OCEAN, #404bbf);
+    color: #404bbf;
 }
 
 
@@ -99,7 +99,7 @@ color:#404bbf;
 background-color: #404BBF;
 }
 .head-button:focus{
-background-color: var(--OCEAN, #404bbf);
+background-color:#404bbf;
 }
 
 .service {}
@@ -201,7 +201,7 @@ background-color: var(--OCEAN, #404bbf);
     line-height: 1.2;
     letter-spacing: 0.02em;
     text-align: left;
- }
+}
 
 
 
