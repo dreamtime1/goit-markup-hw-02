@@ -43,15 +43,17 @@ a {
     text-align: left;
 }
 
-.header-list-item:hover{
+.header-list-item:hover {
 color:#404bbf;
 }
 
-.header-list-item:focus{
-color: #404bbf;
+.header-list-item:focus {
+color:#404bbf;
 }
 
-.header-address {}
+.header-address {
+    font-style: normal;
+}
 
 .header-address-list {}
 
@@ -62,7 +64,6 @@ color: #404bbf;
     line-height: 24px;
     letter-spacing: 0.02em;
     text-align: left;
-    font-style: normal;
 }
 
 .header-address-list-item:hover{
@@ -101,10 +102,10 @@ color: #404bbf;
     cursor: pointer;
 }
 .head-button:hover{
-color: #404BBF;
+background-color: #404BBF;
 }
 .head-button:focus{
-color: #404BBF;
+background-color: #404BBF;
 }
 
 .service {}
@@ -134,7 +135,9 @@ color: #404BBF;
 }
 
 
-.team {}
+.team {
+    background-color:#F4F4FD ;
+}
 
 .team-title {
     color: #2E2F42;
@@ -143,11 +146,15 @@ color: #404BBF;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
+    text-transform: capitalize;
+
 }
 
 .team-list {}
 
-.team-list-item {}
+.team-list-item {
+    background-color: #FFFFFF;
+}
 
 .team-sec-title {
     color:#2E2F42;
@@ -179,8 +186,8 @@ color: #404BBF;
     font-weight: 700;
     line-height: 1.11;
     letter-spacing: 0.02em;
-    text-align: center;
-    text-transform: capitalize;
+    text-align:center ;
+    text-transform:capitalize ;
 
 }
 
