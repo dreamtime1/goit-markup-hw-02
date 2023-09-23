@@ -28,7 +28,7 @@ a {
 .header-list {}
 
 .header-list-item {
-    color: #2E2F42;
+    color:#2E2F42;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
@@ -51,7 +51,7 @@ a {
 
 
 .head {
-    background-color: #2E2F42;
+    background-color:#2E2F42;
 }
 
 .head-title {
@@ -64,8 +64,8 @@ a {
 }
 
 .head-button {
-    background-color: #4D5AE5;
-    color: #FFFFFF;
+    background-color:#4D5AE5;
+    color:#FFFFFF;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
@@ -92,7 +92,7 @@ a {
 }
 
 .service-paragraph {
-    color: #434455;
+    color:#434455;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
@@ -174,7 +174,7 @@ a {
 }
 
 .footer-link {
-    color: #FFFFFF;
+    color:#FFFFFF;
     font-size: 18px;
     font-weight: 700;
     line-height: 1.16;
@@ -183,11 +183,11 @@ a {
 
 }
 .footer-logo-color {
-    color: #4D5AE5;
+    color:#4D5AE5;
 }
 
 .footer-paragraph {
-    color: #FFFFFF;
+    color:#FFFFFF;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
