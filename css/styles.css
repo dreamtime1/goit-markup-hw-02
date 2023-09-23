@@ -43,10 +43,7 @@ a {
     text-align: left;
 }
 
-.header-list-item:hover {
-color:#404bbf;
-}
-
+.header-list-item:hover,
 .header-list-item:focus {
 color:#404bbf;
 }
@@ -66,11 +63,8 @@ color:#404bbf;
     text-align: left;
 }
 
-.header-address-list-item:hover{
-    color:#404bbf;
-
-}
-.header-address-list-item:focus{
+.header-address-list-item:hover,
+.header-list-item:focus {
     color: #404bbf;
 }
 
